@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mijachuaye
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mijachuaye/mijachuaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+hola soy vargas gerardo Daniel, me interesa la salud, motio por el cual soy enermero 
+Actualmente estoy aprendiendo este curso de programacion y asi colaborar mas en casa.
+Me pueden contact al e-mail gerardo_daniel_vargas@hotmail.com
